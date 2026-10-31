@@ -1,0 +1,14 @@
+Execução de conferência: 2026-10-30 22:37:52 UTC
+Sistema operacional: Microsoft Windows 11 Pro, 64 bits, build 26200
+Processador: AMD Ryzen 5 5600 6-Core Processor
+Núcleos físicos: 6
+Processadores lógicos: 12
+Memória RAM instalada: 15,93 GiB (aprox. 16 GB)
+GPU: AMD Radeon RX 7600 (não utilizada nos algoritmos)
+Java: Microsoft OpenJDK 17.0.21.0.2 LTS
+Processadores lógicos visíveis à JVM: 12
+Memória máxima da JVM: 4.078 MiB
+Compilação: javac --release 17 -encoding UTF-8
+Verificação: 288 casos válidos
+Benchmark: 720 medições válidas; 144 grupos; 5 amostras por grupo
+Configuração: tamanhos 2.000, 5.000 e 10.000; padrões RANDOM, SORTED, REVERSE e FEW_UNIQUE; serial, 2 e 4 threads
